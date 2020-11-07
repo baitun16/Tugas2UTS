@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas2UTS</string>
+
+    <string name="deskrip">deskrip</string>
+    <string name="textview">TextView</string>
+
+    <string name="profil_fakultas_upn">PROFIL FAKULTAS UPN</string>
+    <string name="nama_fakultas">Nama Fakultas</string>
+    <string name="ib1">ib1</string>
+    <string name="ib2">ib2</string>
+    <string name="ib3">ib3</string>
+    <string name="ib4">ib4</string>
+    <string name="ib5">ib5</string>
+</resources>
